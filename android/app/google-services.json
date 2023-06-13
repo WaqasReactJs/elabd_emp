@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "344094915107",
+    "project_id": "elabdems",
+    "storage_bucket": "elabdems.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344094915107:android:46a3eda4ca99f242d4cf96",
+        "android_client_info": {
+          "package_name": "com.elabdtech.elabd_tms_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344094915107-vbdcstaj2ijd6nghudhfod2q6uudjkim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_Kl-jTzNitzH5aINt1NkzORz_lCPES98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344094915107-vbdcstaj2ijd6nghudhfod2q6uudjkim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
